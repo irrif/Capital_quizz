@@ -1,0 +1,39 @@
+Groenland (Danemark) : Nuuk
+Canada : Ottawa
+États-Unis : Washington D.C
+Mexique : Mexico
+Guatemala : Guatemala
+Bélize : Belmopan
+Salvador : San Salvador
+Honduras : Tegucigalpa
+Nicaragua : Managua
+Costa-Rica : San José
+Panama : Panama
+Bermudes : Hamilton
+Bahamas : Nassau
+Iles Turques-et-Caïques (Royaume-Uni) : Cockburn Town
+Cuba : La Havane
+Iles Caïmans (Royaume-Uni) : George Town
+Jamaïque : Kingston
+Haïti : Port-au-Prince
+République Dominicaine : Saint-Domingue
+Porto-Rico (États-Unis) : San Juan
+Iles vierges américaines (États-Unis) : Charlotte-Amélie
+Iles vierges britanniques (Royaume-Uni) : Road Town
+Anguilla (Royaume-Uni) : The Valley
+Saint-Martin (France) : Marigot
+saint-Barthélémy (France) : Gustavia
+Saint-Christophe-et-Niévès : Basseterre
+Antigua et Barbuda : Saint John's
+Montserrat (Royaume-Uni) : Plymouth
+Guadeloupe (France) : Basse-terre
+Dominique : Roseau
+Martinique (France) : Fort-de-France
+Sainte-Lucie : Castries
+Saint-Vincent-et-les-Grenadines : Kingstown
+Grenade : Saint-Georges
+Barbade : Bridgetown
+Trinité-et-Tobago : Port d'Espagne
+Aruba (Pays-Bas) : Oranjestad
+Curaçao (Pays-Bas) : Willemstad
+Bonaire (Pays-Bas) : Kralendijk

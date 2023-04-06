@@ -1,0 +1,49 @@
+Turquie : Ankara
+Géorgie : Tbilissi
+Arménie : Erevan
+Azerbaïdjan : Bakou
+Israël : Jérusalem
+Palestine : Ramallah
+Liban : Beyrouth
+Syrie : Damas
+Jordanie : Amman
+Koweït : Koweït
+Arabie-Saoudite : Riyad
+Bahreïn : Manama
+Quatar : Doha
+Émirats Arabe Unis : Abou Dabi
+Oman : Mascate
+Yémen : Sanaa
+Turkménistan : Achgabat
+Ouzbékistan : Tachkent
+Kazakhstan : Noursoultan
+Kirghizistan : Bichkek
+Tadjikistan : Douchanbé
+Irak : Bagdad
+Iran : Téhéran
+Afghanistan : Kaboul
+Pakistan : Islamabad
+Russie : Moscou
+Mongolie : Oulan-Bator
+Chine : Pékin
+Corée du Nord : Pyongyang
+Corée du Sud : Séoul
+Japon : Tokyo
+Inde : New-Delhi
+Népal : Katmandou
+Boutan : Timphou
+Bangladesh : Dacca
+Myanmar : Naypyidaw
+Thaïlande : Bangkok
+Laos : Vientiane
+Viêt Nam : Hanoï
+Malaise : Kuala-Lumpur
+Singapour : Singapour
+Indonésie : Jakarta
+Bruneï : Bandar Seri Begawan
+Philippines : Manille
+Taïwan : Taipei
+Sri Lanka : Sri Jayawardenapura Kotte
+Maldives : Malé
+Timor-Oriental : Dili
+Cambodge : Phnom Penh

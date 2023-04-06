@@ -1,0 +1,56 @@
+Maroc : Rabat
+Algérie : Alger
+Tunisie : Tunis
+Libye : Tripoli
+Egypte : Le Caire
+Mauritanie : Nouakchott
+Mali : Bamako
+Niger : Niamey
+Tchad : N'Djamena
+Soudan : Khartoum
+Erythree : Asmara
+Sénégal : Dakar
+Gambie : Banjul
+Guinée-Bissau : Bissau
+Guinée : Conakry
+Sierra Leone : Freetown
+Libéria : Monrovia
+Cote d'Ivoire : Yamoussoukro
+Ghana : Accra
+Togo : Lomé
+Bénin : Porto-Novo
+Burkina Faso : Ouagadougou
+Nigéria : Abuja
+Cameroun : Yaoundé
+Centrafrique : Bangui
+Soudan du Sud : Djouba
+Ethiopie : Addis-Adeba
+Djibouti : Djibouti
+Somalie : Mogadiscio
+Guinée équatoriale : Malabo
+Gabon : Libreville
+République du Congo : Brazzaville
+République démocratique du Congo : Kinshasa
+Ouganda : Kampala
+Rwanda : Kigali
+Burundi : Gitega
+Kenya : Nairobi
+Angola : Luanda
+Zambie : Lusaka
+Malawi : Lilongwe
+Tanzanie : Dodoma
+Namibie : Windhoek
+Botswana : Gaborone
+Zimbabwe : Harare
+Mozambique : Maputo
+Afrique du Sud : Pretoria
+Lesotho : Maseru
+Eswatini : Mbabane
+Madagascar : Antanarivo
+Maurice : Port-Louis
+La Réunion : Saint-Denis
+Mayotte : Mamoudzou
+Les Comores : Moroni
+Seychelles : Victoria
+Sao Tomé et Principe : Sao Tomé
+Cap-Vert : Praia
